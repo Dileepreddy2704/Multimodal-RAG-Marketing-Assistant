@@ -490,20 +490,19 @@ Analytics Dashboard
 
 ## Home Page
 
-<img width="1857" height="813" alt="screenshotshome" src="https://github.com/user-attachments/assets/4af6ea63-56f1-4207-bae6-8b2c686817bb" />
+![Home Page](images/home.png)
 
 ## AI Understanding Panel
 
-<img width="420" height="330" alt="screenshotsai understanding" src="https://github.com/user-attachments/assets/97f2c6fa-9cdd-48e3-be46-16c6260c06dd" />
+![AI Understanding](images/ai_understanding.png)
 
 ## Marketing Content Generation
 
-<img width="1852" height="725" alt="content_generation" src="https://github.com/user-attachments/assets/7bf4443f-91ed-4fcd-8729-e85ee07b34a1" />
+![Marketing Content](images/content_generation.png)
 
 ## Analytics Dashboard
 
-<img width="1840" height="826" alt="screenshotsanalytics" src="https://github.com/user-attachments/assets/c60f799e-20fa-47d8-a840-c26ce5778671" />
-
+![Analytics](images/analytics.png)
 
 # 📈 Sample Output
 
