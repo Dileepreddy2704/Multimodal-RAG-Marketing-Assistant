@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+
+venv/
+testenv/
+
+.git
+.gitignore
+
+.streamlit/
+
+data/uploads/
+
+logs/
+
+.env

@@ -1,0 +1,26 @@
+# Virtual Environments
+venv/
+testenv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment Variables
+.env
+
+# Logs
+logs/
+
+# Uploads
+data/uploads/*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS Files
+.DS_Store
+Thumbs.db
